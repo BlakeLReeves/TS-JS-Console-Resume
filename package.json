@@ -1,0 +1,23 @@
+{
+  "name": "TS-JS-Console-Resume",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakereeves19/TS-JS-Console-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blakereeves19/TS-JS-Console-Resume/issues"
+  },
+  "homepage": "https://github.com/blakereeves19/TS-JS-Console-Resume#readme",
+  "dependencies": {
+    "typescript": "^3.2.4"
+  }
+}
